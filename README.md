@@ -3,7 +3,7 @@
 
 You are **100%** free to use my projects!!
 <h1 align="center">Hi 👋, I'm Samarth</h1>
-<h3 align="center">Welcome to my GitHub page! I'm a self-taught Python programmer and passionate Data Enthusiast driven by the curiosity to explore and unravel the mysteries of data. With a penchant for asking the quintessential questions - What? Why? Where? When? How? - I dive deep into the realms of Data Science, seeking not just answers but understanding. Join me on this journey of discovery and exploration!.</h3>
+<h3 align="center">Welcome to my GitHub page! I'm a self-taught Python programmer and passionate Data Enthusiast driven by the curiosity to explore and unravel the mysteries of data. With a penchant for asking the quintessential questions - What? Why? Where? When? How? - I dive deep into the realms of Data Science and Generative AI (Large Language Models), seeking not just answers but understanding. Join me on this journey of discovery and exploration!.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samarthrathi&label=Profile%20views&color=0e75b6&style=flat" alt="samarthrathi" /> </p>
 
